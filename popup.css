@@ -1,0 +1,22 @@
+body {
+  background-color: #eee;
+  height: 350px;
+  width: 250px;
+  margin: 1em;
+}
+div.container {
+  padding: 1em;
+  border-radius: 1em;
+  outline: 1px solid #555;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  margin-top: 0;
+}
+
+button {
+  outline: none;
+}
